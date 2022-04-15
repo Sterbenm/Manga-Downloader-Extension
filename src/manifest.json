@@ -12,6 +12,7 @@
 		"128": "icons/md-128.png"
 	},
 	"permissions" : [
+		"*://*.webtoon-tr.com/*",
 		"*://*.imggur.net/*",
 		"*://*.imgur.com/*",
 		"*://*.mangapanda.com/*",
